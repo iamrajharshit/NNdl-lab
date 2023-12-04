@@ -10,7 +10,7 @@
 |5|[Dropout Layers NN](https://github.com/iamrajharshit/NNdl-lab/blob/new/12-dropout-layers.ipynb)|03/10/23|
 |6|[Regularization](https://github.com/iamrajharshit/NNdl-lab/blob/new/regularization%20techniqye.ipynb)|03/10/23|
 |7|[Sentiment Analysis ANN](https://github.com/iamrajharshit/NNdl-lab/blob/new/sentiment%20analysis%20using%20ann.ipynb)|07/10/23|
-|8|[MNSIT Handwritten Classification CNN](https://github.com/iamrajharshit/NNdl-lab/blob/new/handwritten%20cnn)|07/10/23|
+|8|[MNSIT Handwritten Classification CNN](https://github.com/iamrajharshit/NNdl-lab/blob/new/classification%20of%20handwritten%20digits%20using%20cnn.ipynb)|07/10/23|
 || **PART B** ||
 |9|[Data Agumentation](https://github.com/iamrajharshit/NNdl-lab/blob/new/Data%20augmentation.ipynb)|10/10/23|
 |10|[Transfer Learning](https://github.com/iamrajharshit/NNdl-lab/blob/new/Transfer%20learning%20methods-Vgg16%20and%20vgg19.ipynb)|31/10/23|
